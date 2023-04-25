@@ -1,0 +1,13 @@
+{
+  "hash": "b6b800a3",
+  "browserHash": "2601c8a8",
+  "optimized": {
+    "@vue/reactivity": {
+      "src": "../../node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js",
+      "file": "@vue_reactivity.js",
+      "fileHash": "7669add5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
